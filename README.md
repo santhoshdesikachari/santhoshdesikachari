@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**santhoshdesikachari/santhoshdesikachari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Santhosh Desikachari
 
-Here are some ideas to get you started:
+Senior Principal Engineer @ Optum
+Love coding!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+</br>
+
+
+- 🔭 I’m currently working on:  
+  - Creating data pipeline using Azure Databricks
+  
+- 🌱 I’m currently learning:  
+  - Azure / Spark
+
+- 👯 I’m looking to collaborate on:
+  - any open souce Scala project
+  
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+  - Scala 
+  
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:  
+      email: ds.office.emails@gmail.com
+
+- ⚡ Fun fact:
+  - Not that fun!
