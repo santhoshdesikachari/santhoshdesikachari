@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Santhosh Desikachari
 
 Senior Principal Engineer @ Optum
